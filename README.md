@@ -56,11 +56,17 @@ module full_adder (
 endmodule
 ```
 **RTL Schematic**
+
 <img width="771" height="395" alt="image" src="https://github.com/user-attachments/assets/568b8c8f-302e-4826-95e8-3cb320723ad2" />
+
 <img width="796" height="406" alt="image" src="https://github.com/user-attachments/assets/f02ffdc8-14c5-4554-82a9-c9f70a3f589b" />
+
 **Output Timing Waveform**
+
 <img width="771" height="382" alt="image" src="https://github.com/user-attachments/assets/4b7db161-75cc-4152-b2d0-bcf6fddbd14b" />
+
 <img width="782" height="383" alt="image" src="https://github.com/user-attachments/assets/ccb33984-b0ce-4d8e-b7b8-f92ff8af9555" />
+
 **Result:**
 
 Thus the Full Adder and Full Subtractor circuits are designed and the truth tables is verified using Quartus software.
